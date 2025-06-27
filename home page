@@ -1,1 +1,37 @@
+<!-- index.html (Home Page) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LexPixel - Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="pixel-title">LexPixel</h1>
+    <p class="subtitle">AI-Powered Legal Risk Analyzer with Pixel Art Visualization</p>
+    <a href="analyze.html" class="pixel-button">Start Analyzing</a>
+  </div>
+</body>
+</html>
 
+<!-- analyze.html (Input Page) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LexPixel - Analyze</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <p class="subtitle">Provide the legal document in the form of text or pdf to keep ware of risky, complex, or biased clauses!</p>
+    <textarea id="legalText" placeholder="Paste your legal document here..."></textarea>
+    <button onclick="analyzeText()" class="pixel-button">Analyze</button>
+    <div id="output"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
