@@ -1,4 +1,3 @@
-# LexPixel
 # 🧠🎨 LexPixel — AI-Powered Legal Risk Analyzer in Pixel Art
 
 Welcome to **LexPixel**, a creative fusion of **AI**, **legal tech**, and **pixel art**. This project helps you **understand legal documents** through **visual pixel-based summaries**, making complex clauses, risks, and biases easy to see and share.
