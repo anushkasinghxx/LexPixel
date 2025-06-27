@@ -63,9 +63,13 @@ Backend: Runs at `http://localhost:5000/analyze`
 We believe that transparency in legal documents should be:
 
 Accessible 🧠
+
 Understandable 💬
+
 Visually engaging 🟪🟥🟦
+
 LexPixel is our hackathon-winning vision to make that happen.
+
 
 ### 🙌 Made with ❤️ at Pixel Palette Hackathon
 IEEE RAS MUJ | 24-hour Online Hackathon
